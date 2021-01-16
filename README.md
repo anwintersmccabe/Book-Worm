@@ -14,7 +14,7 @@ Requires a Sagemaker notebook instance from which the notebook files can be open
 Upload files to the notebook instance and run the notebooks
 ## Contact Info
 
-```Go
+```
 name  := "Annabel Winters-McCabe"
 email := "anwintersmccabe@davidson.edu"
 ```
